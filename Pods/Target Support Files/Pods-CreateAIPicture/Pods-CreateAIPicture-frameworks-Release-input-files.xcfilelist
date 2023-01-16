@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-CreateAIPicture/Pods-CreateAIPicture-frameworks.sh
+${BUILT_PRODUCTS_DIR}/OpenAI/OpenAI.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
