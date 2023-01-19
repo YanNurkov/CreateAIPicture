@@ -8,4 +8,6 @@ target 'CreateAIPicture' do
   # Pods for CreateAIPicture
 pod 'SnapKit'
 pod 'OpenAI'
+pod 'lottie-ios'
+pod 'SDWebImage'
 end
